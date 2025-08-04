@@ -1,1 +1,0 @@
-# app-dtm-cert.uz
